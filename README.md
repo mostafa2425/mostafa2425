@@ -1,7 +1,8 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 ### 👨🏻‍💻 &nbsp;About Me
-
+🧐 &nbsp;Interested in full stack. Recent focus on FrontEnd.
+🎓 &nbsp;I'm currently working as Front End developer at G2K Group.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently working as Front End developer\
 🌱 &nbsp;I'm on track for learning more about Back End language as Node js and Express.\
 ✉️ &nbsp;You can shoot me an email at [Gmail](gamalmostafa92@gmail.com) I'll try to respond as soon as I can.\
 
