@@ -27,7 +27,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mostafa-gamal-6b192a122/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:gamalmostafa92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100004432962141"><img src="https://img.shields.io/badge/-Facebook?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100004432962141">Facebook<img src="https://img.shields.io/badge/-Facebook?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
